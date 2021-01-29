@@ -1,0 +1,7 @@
+!.gitignore
+.git/
+.dist/
+.vscode/
+README.md
+node_modules
+package.json
